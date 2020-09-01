@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6300b672-f247-477a-b1c7-42edb3c9c7ac" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../assets/images/Constantin_Brancusi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../assets/images/bird_in_space.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../assets/images/cumintenia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../assets/images/expo1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../assets/images/expo1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../assets/images/expo2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../assets/images/expo3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../assets/images/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../assets/images/glob.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../assets/images/kiss.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../assets/images/maiastra.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../assets/images/museumm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../assets/images/pogany.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../assets/images/pogany.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/js/footer.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/js/header.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/js/header_content.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/js/header_nav.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/js/main.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/js/section_events.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/js/section_exhibition.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/js/section_follow.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/scss/.sass-cache/a2ac2576f58bab80958a4dde84e5cc4d0fc06847/_all.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/scss/.sass-cache/a2ac2576f58bab80958a4dde84e5cc4d0fc06847/_colors.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/scss/.sass-cache/a2ac2576f58bab80958a4dde84e5cc4d0fc06847/_fonts.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/scss/.sass-cache/a2ac2576f58bab80958a4dde84e5cc4d0fc06847/_mixins.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/scss/.sass-cache/a2ac2576f58bab80958a4dde84e5cc4d0fc06847/_variables.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/scss/.sass-cache/a2ac2576f58bab80958a4dde84e5cc4d0fc06847/main.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/scss/.sass-cache/fcdf330cacf7dd4c7402890c9f6e6637a132eadc/_all.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/scss/.sass-cache/fcdf330cacf7dd4c7402890c9f6e6637a132eadc/_colors.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/scss/.sass-cache/fcdf330cacf7dd4c7402890c9f6e6637a132eadc/_fonts.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/scss/.sass-cache/fcdf330cacf7dd4c7402890c9f6e6637a132eadc/_mixins.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/scss/.sass-cache/fcdf330cacf7dd4c7402890c9f6e6637a132eadc/_variables.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/scss/.sass-cache/fcdf330cacf7dd4c7402890c9f6e6637a132eadc/main.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/scss/_all.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/scss/_colors.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/scss/_fonts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/scss/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/scss/main.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/scss/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../webpack.config.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1dzOt8WaHqBfFyrE3tBCymXy44P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6300b672-f247-477a-b1c7-42edb3c9c7ac" name="Default Changelist" comment="" />
+      <created>1593424666810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593424666810</updated>
+      <workItem from="1593424669351" duration="2666000" />
+      <workItem from="1593427369839" duration="8811000" />
+      <workItem from="1593519846838" duration="6164000" />
+      <workItem from="1593585718820" duration="3777000" />
+      <workItem from="1593614066647" duration="3702000" />
+      <workItem from="1593678113904" duration="6724000" />
+      <workItem from="1593759285454" duration="149000" />
+      <workItem from="1593759457742" duration="4298000" />
+      <workItem from="1593847616939" duration="4789000" />
+      <workItem from="1593858381697" duration="3998000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="735" y="28" width="672" height="678" key="search.everywhere.popup" timestamp="1593783925353">
+      <screen x="0" y="27" width="1366" height="680" />
+    </state>
+    <state x="735" y="28" width="672" height="678" key="search.everywhere.popup/0.27.1366.680@0.27.1366.680" timestamp="1593783925353" />
+  </component>
+</project>
